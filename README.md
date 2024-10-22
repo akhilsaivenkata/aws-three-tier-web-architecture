@@ -58,9 +58,9 @@ In this architecture, a public-facing Application Load Balancer forwards client 
 - Learned best practices for resource management and cost optimization in AWS.
 
 ## Screenshots and Recordings
-- ![Deployment Screenshot](path/to/your/screenshot.png)
-- ![Application Screenshot](path/to/your/screenshot2.png)
-- [Video Recording of the Final Application](link-to-your-video)
+- ![Deployment Screenshot](App_Tier_LoadBalancers_EC2_ca-central-1-1.png)
+- ![Application Screenshot](Web_Tier_LoadBalancerDetails_EC2_ca-central-1.jpg)
+- [Video Recording of the Final Application](AppDemo.mov)
 
 ## Conclusion
 This project significantly enhanced my understanding of AWS and its services. I look forward to exploring more advanced features and optimizations in future projects.
