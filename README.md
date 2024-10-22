@@ -60,6 +60,8 @@ In this architecture, a public-facing Application Load Balancer forwards client 
 ## Screenshots and Recordings
 - ![Deployment Screenshot](App_Tier_LoadBalancers_EC2_ca-central-1-1.png)
 - ![Application Screenshot](Web_Tier_LoadBalancerDetails_EC2_ca-central-1.jpg)
+- ![Home Page Screenshot](HomePage.png)
+- ![DbPage Screenshot](DbPage.png)
 - [Video Recording of the Final Application](AppDemo.mov)
 
 ## Conclusion
