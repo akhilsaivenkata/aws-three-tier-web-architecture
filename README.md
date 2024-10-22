@@ -1,4 +1,4 @@
-# AWS Three Tier Web Architecture Workshop
+# AWS Three Tier Web Architecture Project
 
 ## Description
 This project is a hands-on implementation of a three-tier web architecture in AWS, utilizing application code provided by the AWS workshop. Throughout this process, I manually built the necessary components and configurations to deploy this architecture in an available and scalable manner.
